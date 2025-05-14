@@ -18,3 +18,5 @@ Port the latest PCSX2 core from GitHub to Android using:
         ISO games
 
         Emulator configuration (graphics, controls, audio, etc.)
+
+        Stripped of Qt GUI
